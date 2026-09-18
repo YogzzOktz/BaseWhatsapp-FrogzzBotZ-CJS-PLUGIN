@@ -303,7 +303,8 @@ Project ini adalah base untuk pengembangan bot pribadi atau project sendiri. Ses
 
 Gunakan nomor WhatsApp yang memang menjadi milik atau berada dalam kendali Anda. Jangan menjalankan automation yang melanggar ketentuan layanan atau mengganggu pengguna lain.
 
-My Channel Whatsapp
+## My Channel Whatsapp
+https://whatsapp.com/channel/0029VawOm1WEgGfWF5R6v92y
 
 ## Connection Stability
 
