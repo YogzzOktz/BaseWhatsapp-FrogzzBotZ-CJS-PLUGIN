@@ -96,19 +96,6 @@ Contoh:
 
 Setelah pairing berhasil, data login akan tersimpan di folder `session/`.
 
-## GitHub
-
-Project ini bisa langsung diletakkan pada repository GitHub.
-
-```bash
-git init
-git add .
-git commit -m "Initial release"
-git branch -M main
-git remote add origin https://github.com/USERNAME/REPOSITORY.git
-git push -u origin main
-```
-
 Jangan upload isi `session/` ke repository. Folder tersebut sudah masuk `.gitignore`.
 
 ## Database
